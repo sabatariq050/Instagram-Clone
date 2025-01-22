@@ -1,0 +1,1 @@
+<img class="h-12 w-auto text-white lg:h-16 xl:h-20 lg:text-[#FF2D20]" src="http://127.0.0.1:8000/images/logo.png">
